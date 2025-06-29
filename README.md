@@ -6,7 +6,7 @@
 
 ## 📥 نحوه دانلود  
 برای دریافت آخرین نسخه کتاب، روی لینک زیر کلیک کنید:  
-🔗 [دانلود مستقیم آموزش جامع fastapi](https://github.com/username/repo-name/raw/main/python-tutorial.pdf)  
+🔗 [دانلود مستقیم آموزش جامع fastapi](https://github.com/farzadfathi85/fastapi_tutorial/raw/main/Fastapi.pdf)  
 
 ## 🏆 ویژگی‌های این آموزش  
 - آموزش از **سطح مقدماتی** تا **موارد پیشرفته**  
