@@ -1,10 +1,10 @@
 # fastapi_tutorial
 آموزش رایگان fastapi
-# 🐍 آموزش رایگان پایتون از مقدماتی تا پیشرفته  
+# 🐍 آموزش رایگان فریم‌ورک fastapi از مقدماتی تا پیشرفته  
 
-![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)  
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png](https://fastapi.tiangolo.com/)  
 
-این مخزن حاوی **کتاب الکترونیکی (PDF) آموزش برنامه‌نویسی پایتون** به زبان فارسی است که به صورت رایگان در اختیار همه قرار گرفته است.  
+این مخزن حاوی **کتاب الکترونیکی (PDF) آموزش فریم‌ورک fastapi** به زبان فارسی است که به صورت رایگان در اختیار همه قرار گرفته است.  
 
 ## 📥 نحوه دانلود  
 برای دریافت آخرین نسخه کتاب، روی لینک زیر کلیک کنید:  
